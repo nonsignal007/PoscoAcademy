@@ -1,0 +1,14 @@
+# dataloader.py
+## root path
+root_path : '/Users/minsuson/Library/Mobile Documents/com~apple~CloudDocs/Animals/AnimalEyes'
+
+## pickle path
+csv_dir_path : '/Users/minsuson/Library/Mobile Documents/com~apple~CloudDocs/Animals/AnimalEyes/data'
+image_df_csv_path : 'image_df.csv'
+
+## data path
+data_path : '/Volumes/MINDB/AnimalEyes/data/'
+
+
+# trainer.py
+batch_size : 4
